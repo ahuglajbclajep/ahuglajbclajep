@@ -1,6 +1,3 @@
-### 🎮 ahu <a href="https://steamcommunity.com/id/ahuglajbclajep/"><img align="right" src="https://img.shields.io/badge/-Steam-blue?logo=steam&style=flat-square" /></a><a href="https://Twitter.com/ahuglajbclajep" ><img align="right" src="https://img.shields.io/badge/twitter--lightgrey?logo=twitter&style=social" /></a>
-
-```js
 (q=_=>(
   {
     profile: {
@@ -20,4 +17,3 @@
     works: {},
   }
 ,console.log(`(q=${q})()`)))()
-```
