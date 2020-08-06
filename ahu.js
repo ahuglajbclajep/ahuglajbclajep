@@ -1,4 +1,4 @@
-(q=_=>( // It's a self-replicating program (the so-called Quine). RUN ME!
+(q=_=>( // This is a self-replicating program (the so-called Quine). RUN ME!
   {
     profile: {
       name: /^ahu(?:glajbclajep)?$/,
