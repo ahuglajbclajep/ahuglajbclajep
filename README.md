@@ -14,10 +14,10 @@
       gitlab: "https://gitlab.com/ahuglajbclajep",
       steam: "https://steamcommunity.com/id/ahuglajbclajep",
     },
-    notes: {
+    posts: {
       hobbies: "https://ahuglajbclajep.hatenadiary.jp",
+      notes: "https://scrapbox.io/ahuglajbclajep/"
     },
-    works: {},
   }
 ,console.log(`(q=${q})()`)))()
 ```
