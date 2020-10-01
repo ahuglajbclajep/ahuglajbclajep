@@ -2,7 +2,7 @@
   {
     profile: {
       name: /^ahu(?:glajbclajep)?$/,
-      birthday: "1997/3/12",
+      birthdate: new Date("1997/3/12"),
       interests: ["game", "programming"],
     },
     accounts: {
@@ -13,8 +13,7 @@
     },
     posts: {
       hobbies: "https://ahuglajbclajep.hatenadiary.jp",
-      notes: "https://scrapbox.io/ahuglajbclajep/"
+      notes: "https://scrapbox.io/ahuglajbclajep"
     },
-    works: {},
   }
 ,console.log(`(q=${q})()`)))()
