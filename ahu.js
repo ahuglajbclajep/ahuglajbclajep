@@ -13,7 +13,7 @@
     },
     posts: {
       hobbies: "https://ahuglajbclajep.hatenadiary.jp",
-      notes: "https://scrapbox.io/ahuglajbclajep"
+      notes: "https://scrapbox.io/ahuglajbclajep",
     },
   }
 ,console.log(`(q=${q})()`)))()
