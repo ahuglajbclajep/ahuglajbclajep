@@ -3,17 +3,16 @@
     profile: {
       name: /^ahu(?:glajbclajep)?$/,
       birthdate: new Date("1997/3/12"),
-      interests: ["game", "programming"],
+      hobbies: ["programming", "gaming", "reading"],
     },
     accounts: {
       twitter: "https://twitter.com/ahuglajbclajep",
       github: "https://github.com/ahuglajbclajep",
-      gitlab: "https://gitlab.com/ahuglajbclajep",
       steam: "https://steamcommunity.com/id/ahuglajbclajep",
     },
     posts: {
-      hobbies: "https://ahuglajbclajep.hatenadiary.jp",
       notes: "https://scrapbox.io/ahuglajbclajep",
+      hobbies: "https://ahuglajbclajep.hatenadiary.jp",
     },
   }
 ,console.log(`(q=${q})()`)))()
